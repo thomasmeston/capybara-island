@@ -1,0 +1,24 @@
+{
+  "name": "capybara-island",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Capybara Island — an isometric low-poly game by Meryl Meston",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "check:island": "tsx scripts/check-course.ts"
+  },
+  "dependencies": {
+    "howler": "^2.2.4",
+    "three": "^0.175.0"
+  },
+  "devDependencies": {
+    "@types/howler": "^2.2.12",
+    "@types/three": "^0.175.0",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.2",
+    "vite": "^6.2.2"
+  }
+}

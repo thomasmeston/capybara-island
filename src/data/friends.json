@@ -1,0 +1,74 @@
+[
+  {
+    "id": "puddle",
+    "name": "Puddle",
+    "lines": [
+      "You found me in the reeds.",
+      "I want a house right here.",
+      "A round door, and a lily pad for the step."
+    ],
+    "wish": "A round door and a lily pad step.",
+    "itemIds": ["round-door", "lily-step"],
+    "coconuts": 0,
+    "hide": { "x": 7.6, "z": 7.8 },
+    "house": { "x": 9.4, "z": 6.4 },
+    "sit": { "x": 13.4, "z": 4.6 },
+    "pose": "wade",
+    "coat": { "fur": "#a9d2ee", "dark": "#5e8fb3" },
+    "needs": []
+  },
+  {
+    "id": "moss",
+    "name": "Moss",
+    "lines": [
+      "The shade here is my favorite.",
+      "I want a house under the leaves.",
+      "A leafy roof, and a flat stone to read on."
+    ],
+    "wish": "A leafy roof and a flat reading stone.",
+    "itemIds": ["leafy-roof", "reading-stone"],
+    "coconuts": 4,
+    "hide": { "x": -17.2, "z": 3.4 },
+    "house": { "x": -15.4, "z": 1.6 },
+    "sit": { "x": -17.8, "z": 4.2 },
+    "pose": "sit",
+    "coat": { "fur": "#8f7d4c", "dark": "#4e4530" },
+    "needs": []
+  },
+  {
+    "id": "bean",
+    "name": "Bean",
+    "lines": [
+      "You found my crate.",
+      "I want a tiny house.",
+      "And a big table beside it."
+    ],
+    "wish": "A tiny house and a big table.",
+    "itemIds": ["tiny-house", "big-table"],
+    "coconuts": 8,
+    "hide": { "x": 26.6, "z": -7.2 },
+    "house": { "x": 24.4, "z": -8.4 },
+    "sit": { "x": 26.8, "z": -5.4 },
+    "pose": "sit",
+    "coat": { "fur": "#7b4a2d", "dark": "#3d2619" },
+    "needs": []
+  },
+  {
+    "id": "nap",
+    "name": "Nap",
+    "lines": [
+      "This shade showed up for me.",
+      "I want a hammock house.",
+      "A hammock, and a cloth for the shade."
+    ],
+    "wish": "A hammock and a cloth for the shade.",
+    "itemIds": ["hammock", "shade-cloth"],
+    "coconuts": 14,
+    "hide": { "x": -21.2, "z": 13.2 },
+    "house": { "x": -19.2, "z": 11.4 },
+    "sit": { "x": -22, "z": 14 },
+    "pose": "sit",
+    "coat": { "fur": "#f4b6cc", "dark": "#c27896" },
+    "needs": ["puddle", "moss", "bean"]
+  }
+]

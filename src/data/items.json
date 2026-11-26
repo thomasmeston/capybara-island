@@ -1,0 +1,83 @@
+[
+  {
+    "id": "round-door",
+    "name": "Round door",
+    "icon": "door",
+    "blurb": "A round wooden door for a small house.",
+    "wish": "puddle",
+    "x": -6,
+    "z": 12
+  },
+  {
+    "id": "lily-step",
+    "name": "Lily pad step",
+    "icon": "lily",
+    "blurb": "A pad big enough to step on.",
+    "wish": "puddle",
+    "x": 18,
+    "z": 9
+  },
+  {
+    "id": "shell",
+    "name": "Stray shell",
+    "icon": "shell",
+    "blurb": "A shell nobody asked for.",
+    "wish": null,
+    "x": 22,
+    "z": 1
+  },
+  {
+    "id": "leafy-roof",
+    "name": "Leafy roof",
+    "icon": "leaf",
+    "blurb": "Leaves thick enough for a roof.",
+    "wish": "moss",
+    "x": -14,
+    "z": -8
+  },
+  {
+    "id": "reading-stone",
+    "name": "Reading stone",
+    "icon": "stone",
+    "blurb": "A flat stone for sitting and reading.",
+    "wish": "moss",
+    "x": -8,
+    "z": -10
+  },
+  {
+    "id": "tiny-house",
+    "name": "Tiny house",
+    "icon": "hut",
+    "blurb": "The little house Bean asked for.",
+    "wish": "bean",
+    "x": 22,
+    "z": -12
+  },
+  {
+    "id": "big-table",
+    "name": "Big table",
+    "icon": "table",
+    "blurb": "A table bigger than the house.",
+    "wish": "bean",
+    "x": 18,
+    "z": -16
+  },
+  {
+    "id": "hammock",
+    "name": "Hammock",
+    "icon": "hammock",
+    "blurb": "A hammock for a quiet nap.",
+    "wish": "nap",
+    "x": 6,
+    "z": 16
+  },
+  {
+    "id": "shade-cloth",
+    "name": "Shade cloth",
+    "icon": "cloth",
+    "blurb": "A cloth that makes the shade deeper.",
+    "wish": "nap",
+    "x": -16,
+    "z": 14
+  }
+]
